@@ -1,0 +1,36 @@
+@import './var.module';
+@import './mixin';
+
+html,
+body {
+  height: 100%;
+  position: relative;
+}
+
+main.main {
+  height: 100vh;
+}
+
+
+// button.btn {
+//   &__primary {
+//     background-color: $primary-btn !important;
+//     color: #fff !important;
+
+//     &:hover {
+//       background-color: darken($primary-btn, 10%) !important;
+//     }
+//   }
+// }
+
+// Chakra UI customization
+.chakra-button {
+  &:is(.chakra-menu__menu-button) > * {
+    @include flexAlign(center, center);
+    gap: 10px;
+  }
+}
+.chakra-form__label label css-2gx1h6{
+  color: aliceblue !important;
+}
+// END

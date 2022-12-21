@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2199.74 1237.35">
+  <defs>
+    <linearGradient id="linear-gradient" x1="699.95" y1="958.73" x2="1220.28" y2="958.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e485"/>
+      <stop offset="1" stop-color="#1ded27"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1997.6" y1="1133.87" x2="2199.74" y2="1133.87" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1822.33" y1="362.64" x2="1966.67" y2="362.64" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="2085.81" y1="55.32" x2="2199.74" y2="55.32" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1543.96" y1="642.73" x2="1639.04" y2="642.73" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1091.46" y1="784.21" x2="1137.28" y2="784.21" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="-0.26" y1="616.39" x2="878.21" y2="616.39" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="924.36" y1="387.04" x2="1445.25" y2="387.04" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon points="1220.28 1054.43 1220.28 1218.89 1055.81 1218.89 1055.81 1056.14 699.95 1056.14 699.95 698.57 1057.53 698.57 1057.53 1054.43 1220.28 1054.43" style="fill:url(#linear-gradient)"/>
+    <polygon points="2199.74 1171.05 2199.74 1234.93 2135.85 1234.93 2135.85 1171.71 1997.6 1171.71 1997.6 1032.8 2136.51 1032.8 2136.51 1171.05 2199.74 1171.05" style="fill:url(#linear-gradient-2)"/>
+    <polygon points="1966.67 335.62 1966.67 434.81 1867.48 434.81 1867.48 336.1 1822.33 336.1 1822.33 290.47 1867.96 290.47 1867.96 335.62 1966.67 335.62" style="fill:url(#linear-gradient-3)"/>
+    <polygon points="2199.74 76.27 2199.74 112.28 2163.73 112.28 2163.73 76.64 2085.81 76.64 2085.81 -1.65 2164.1 -1.65 2164.1 76.27 2199.74 76.27" style="fill:url(#linear-gradient-4)"/>
+    <polygon points="1639.04 660.22 1639.04 690.27 1608.98 690.27 1608.98 660.53 1543.96 660.53 1543.96 595.19 1609.3 595.19 1609.3 660.22 1639.04 660.22" style="fill:url(#linear-gradient-5)"/>
+    <polygon points="1137.28 792.64 1137.28 807.12 1122.81 807.12 1122.81 792.79 1091.46 792.79 1091.46 761.3 1122.95 761.3 1122.95 792.64 1137.28 792.64" style="fill:url(#linear-gradient-6)"/>
+    <polygon points="878.22 354.8 878.22 519.25 713.76 519.25 713.76 355.94 521.78 355.94 521.78 520.4 357.33 520.4 357.33 713.52 521.78 713.52 521.78 877.98 357.33 877.98 357.33 1069.96 520.64 1069.96 520.64 1234.42 356.18 1234.42 356.18 1071.11 -0.26 1071.11 -0.26 -1.65 714.9 -1.65 714.9 354.8 878.22 354.8" style="fill:url(#linear-gradient-7)"/>
+    <polygon points="1445.25 290.53 1444.39 648.12 1086.8 647.25 1087.67 290.82 924.36 290.42 924.75 125.96 1089.22 126.35 1088.82 289.67 1445.25 290.53" style="fill:url(#linear-gradient-8)"/>
+  </g>
+</svg>

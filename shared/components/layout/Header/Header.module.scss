@@ -1,0 +1,23 @@
+@import '/styles/var.module';
+@import '/styles/mixin';
+
+.Header {
+  background-color: rgba(#fff, .5);
+  backdrop-filter: blur(15px);
+  position: sticky;
+  inset: 0 0 auto 0;
+  border-bottom: 1px solid rgba($dark, .1);
+  z-index: 9999;
+
+  & * {
+    text-decoration: none !important;
+  }
+
+  &__nav {
+    @include flexAlign(null, center);
+  }
+
+  &__navList {
+    @include flexAlign(null, center);
+  }
+}

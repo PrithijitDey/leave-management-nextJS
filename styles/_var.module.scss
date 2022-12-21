@@ -1,0 +1,33 @@
+$primary-bg: #9896d5;
+$secondary-bg: #ffffff;
+
+// Button colours
+$primary-btn: #423fa7;
+$primary-btn-hover: darken(#9896d5, 5%);
+$primary-btn-active: darken(#9896d5, 10%);
+
+$secondary-btn: #10d181;
+$secondary-btn-hover: darken(#10d181, 5%);
+$secondary-btn-active: darken(#10d181, 10%);
+// END
+
+$dark: #333;
+
+// Gradients
+$primary-gradient: linear-gradient(135deg, $primary-bg 0%, $secondary-bg 100%);
+
+:export {
+  primaryBg: $primary-bg;
+  secondaryBg: $secondary-bg;
+  primaryGradient: $primary-gradient;
+
+  // Buttons
+  primaryBtn: $primary-btn;
+  primaryBtnHover: $primary-btn-hover;
+  primaryBtnActive: $primary-btn-active;
+
+  secondaryBtn: $secondary-btn;
+  secondaryBtnHover: $secondary-btn-hover;
+  secondaryBtnActive: $secondary-btn-active;
+  // END
+}
